@@ -1,2 +1,2 @@
-# Handwritten_Digit_Recognizer
-Implemented CNN using Keras with MNIST dataset
+# Convolutional Neural Netwoks
+Small projects implementation with CNN using MNIST data sets.
